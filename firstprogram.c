@@ -1,5 +1,5 @@
-#include<freeglut.h>
-#include<GLUT/gl.h>
+#include<GL/freeglut.h>
+#include<GL/gl.h>
 
 void renderFunction()
 {
